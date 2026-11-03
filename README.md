@@ -97,7 +97,7 @@ F1/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/zahranur2004-a11y/F1-Telemetry-Analysis.git
 cd F1
 ```
 
