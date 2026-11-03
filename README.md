@@ -44,6 +44,17 @@ The analysis is divided into several stages:
 8. **Track Curvature Analysis** – Estimate track curvature using telemetry coordinates and distance data.
 9. **Driving Performance Analysis** – Compare speed and curvature across driving conditions and explore their relationship.
 
+## Visualizations
+
+### 1. Circuit Mapping
+![Circuit Mapping](outputs/02_circuit_mapping.png)
+
+### 2. Braking Event Mapping
+![Braking Event Mapping](outputs/06_braking_event_mapping.png)
+
+### 3. Track Curvature vs Speed
+![Curvature vs Speed](outputs/12_curvature_vs_speed.png)
+
 ## Key Findings
 
 The analysis produced the following findings:
